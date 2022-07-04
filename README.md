@@ -1,3 +1,3 @@
  
-Zaczynam kurs Selenium.
+Zaczynam kurs Selenium Java.
 
