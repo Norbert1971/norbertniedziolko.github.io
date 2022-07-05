@@ -9,6 +9,7 @@ public class zmienne {
 
         System.out.println(name);
         System.out.println(result);
+        
     }
 
 
