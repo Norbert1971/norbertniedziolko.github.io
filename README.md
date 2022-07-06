@@ -1,4 +1,5 @@
  
 # 
 # Zaczynam kurs Selenium Java.
-# Drugi Drugi
+# wszystko od początku
+
